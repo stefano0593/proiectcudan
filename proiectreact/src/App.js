@@ -11,6 +11,10 @@ function App() {
           <div>Sa plecam acasa dupa ce bem.</div>
         </p>
         <h1>Maine e marti.</h1>
+        <h1>Maine e marti.</h1>
+        <h1>Maine e marti.</h1>
+        <h1>Maine e marti.</h1>
+        <h1>Maine e marti.</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
